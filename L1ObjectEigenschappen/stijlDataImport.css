@@ -1,0 +1,31 @@
+.icon {
+    height: 1.2em;
+    margin-left: 2em;
+}
+
+.rij {
+    display: flex;
+}
+.rij:nth-child(even) {
+    background-color: #eea981;
+}
+
+.rij div {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+}
+#uitvoerKop {
+    display: flex;
+    font-weight: 800;
+}
+#uitvoerKop>div {
+    padding: .5em .7em;
+}
+
+#uitvoerKop .tijd {
+    padding-right: 4em;
+}
+#uitvoerKop .gw {
+    padding: .5em .7em;
+}
