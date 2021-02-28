@@ -8,3 +8,6 @@
 [Haal JSON Op 1](http://31781.hosts1.ma-cloud.nl/FrontEnd/L2HaalJSONOp1/index.html "Les 2 Opdracht 1")
 
 [Haal JSON Op 2](http://31781.hosts1.ma-cloud.nl/FrontEnd/L2HaalJSONOp2/index.html "Les 2 Opdracht 2")
+
+## Les 3:
+[Donut SVG](http://31781.hosts1.ma-cloud.nl/FrontEnd/L3DonutSVG/index.html "Les 3 Opdracht")
